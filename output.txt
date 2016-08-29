@@ -1,0 +1,243 @@
+Python 2.7.6 (default, Nov 10 2013, 19:24:18) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Exec
+
+
+ ================ TF-IDF Score for Selected Features ================ 
+
+
+   1.704748  :  laptop
+   1.424940  :  light
+   0.924295  :  machine
+   0.462177  :  computer
+   0.410264  :  class
+   0.369718  :  machine
+   0.368907  :  neck
+   0.368907  :  attitude
+   0.368907  :  cancel
+   0.340950  :  life
+   0.319719  :  guy
+   0.319719  :  regret
+   0.319719  :  care
+   0.318635  :  airport
+   0.318635  :  range
+   0.315588  :  pain
+   0.299737  :  scratch
+   0.299737  :  ticket
+   0.284988  :  bit
+   0.284398  :  pay
+   0.284398  :  sale
+   0.262269  :  order
+   0.256415  :  extreme
+   0.255095  :  drive
+   0.246479  :  products
+   0.246479  :  half
+   0.231074  :  month
+   0.231074  :  switch
+   0.227300  :  hold
+   0.219222  :  bit
+   0.219222  :  people
+   0.218226  :  software
+   0.213094  :  point
+   0.208950  :  user
+   0.208774  :  quality
+   0.199147  :  airport
+   0.199147  :  range
+   0.196258  :  price
+   0.191785  :  problem
+   0.189992  :  apple
+   0.189416  :  laptop
+   0.187752  :  access
+   0.178118  :  apple
+   0.177622  :  mouse
+   0.169772  :  case
+   0.160852  :  time
+   0.154703  :  risk
+   0.154703  :  error
+   0.154703  :  hell
+   0.154703  :  site
+   0.151950  :  advice
+   0.149868  :  vast
+   0.149868  :  airline
+   0.149868  :  fly
+   0.149089  :  computer
+   0.136933  :  design
+   0.136933  :  switch
+   0.136933  :  office
+   0.136933  :  major
+   0.134796  :  card
+   0.133216  :  rich
+   0.133216  :  raise
+   0.133216  :  basis
+   0.133216  :  desk
+   0.133216  :  reality
+   0.133216  :  age
+   0.132343  :  condition
+   0.132343  :  mind
+   0.128382  :  computer
+   0.128208  :  leave
+   0.128208  :  extreme
+   0.128208  :  company
+   0.128208  :  train
+   0.128208  :  advice
+   0.128208  :  message
+   0.128208  :  fail
+   0.128208  :  normal
+   0.127547  :  it
+   0.126278  :  performance
+   0.126278  :  laptop
+   0.122661  :  work
+   0.119264  :  description
+   0.119264  :  mail
+   0.119264  :  thought
+   0.118013  :  airport
+   0.118013  :  feature
+   0.118013  :  carry
+   0.118013  :  range
+   0.117995  :  click
+   0.115537  :  products
+   0.115537  :  office
+   0.115537  :  check
+   0.115537  :  market
+   0.115537  :  head
+   0.113962  :  change
+   0.113962  :  sort
+   0.113962  :  plane
+   0.113962  :  platform
+   0.113962  :  friend
+   0.113962  :  software
+   0.109984  :  list
+   0.109984  :  stuff
+   0.109984  :  laptop
+   0.107849  :  screen
+   0.106547  :  worth
+   0.106547  :  car
+   0.106547  :  personal
+   0.106547  :  bad
+   0.106547  :  life
+   0.106289  :  it
+   0.105551  :  size
+   0.105551  :  long
+   0.102786  :  web
+   0.102699  :  distance
+   0.102038  :  song
+   0.100606  :  thing
+   0.100606  :  mine
+   0.099574  :  airport
+   0.099574  :  carry
+   0.096904  :  item
+   0.095873  :  memory
+   0.095660  :  it
+   0.094708  :  life
+   0.093876  :  access
+   0.092575  :  it
+   0.091932  :  apple
+   0.089059  :  apple
+   0.088510  :  feature
+   0.087624  :  reading
+   0.087624  :  user
+   0.087290  :  search
+   0.087290  :  profile
+   0.085588  :  computer
+   0.084886  :  case
+   0.083825  :  purchase
+   0.083445  :  money
+   0.079879  :  card
+   0.079717  :  it
+   0.079163  :  apple
+   0.079163  :  size
+   0.079163  :  people
+   0.077913  :  time
+   0.077324  :  quality
+   0.077324  :  play
+   0.075454  :  mine
+   0.073585  :  it
+   0.072182  :  device
+   0.067795  :  book
+   0.067398  :  card
+   0.063309  :  price
+   0.061968  :  system
+   0.060636  :  apple
+   0.059916  :  screen
+   0.059909  :  card
+   0.058066  :  love
+   0.054516  :  work
+   0.054516  :  price
+   0.052185  :  screen
+   0.051019  :  buddy
+   0.051019  :  button
+   0.051019  :  address
+   0.051019  :  data
+   0.051019  :  green
+   0.051019  :  style
+   0.051019  :  house
+   0.051019  :  base
+   0.051019  :  blank
+   0.051019  :  station
+   0.051019  :  track
+   0.051019  :  virus
+   0.051019  :  dot
+   0.051019  :  noise
+   0.051019  :  eat
+   0.051019  :  weekend
+   0.051019  :  glass
+   0.050883  :  it
+   0.044937  :  screen
+   0.043645  :  media
+   0.043645  :  monitor
+   0.043645  :  window
+   0.043645  :  space
+   0.043645  :  number
+   0.043645  :  message
+   0.043645  :  hand
+   0.043645  :  normal
+   0.043645  :  function
+   0.041757  :  work
+   0.039332  :  minor
+   0.039332  :  machine
+   0.039332  :  office
+   0.039332  :  mail
+   0.039332  :  idea
+   0.039332  :  future
+   0.039332  :  spend
+   0.039332  :  player
+   0.039332  :  load
+   0.039332  :  market
+   0.036271  :  worth
+   0.036271  :  list
+   0.036271  :  rate
+   0.036271  :  box
+   0.036271  :  room
+   0.036271  :  performance
+   0.036271  :  decision
+   0.033897  :  airport
+   0.033897  :  web
+   0.031958  :  internet
+   0.031958  :  access
+   0.031958  :  money
+   0.030318  :  bit
+   0.029894  :  it
+   0.028897  :  mine
+   0.028897  :  user
+   0.027644  :  purchase
+   0.024584  :  computer
+   0.023732  :  system
+   0.022944  :  card
+   0.021523  :  camera
+
+
+  ================ Sentiment Analysis Result ================  
+
+Processed Text:
+
+Light weight, narrow gauge compared to heavy duty versions, but the 100 foot has no noticiable difference in image quality from standard 60 foot cables included with Q-See systems. 
+
+
+Adjective Score:
+
+{'heavy': -0.05, 'duty': 0.0, 'weight': 0.30000000000000004, 'light': -0.0625, 'image': -0.037500000000000006, 'standard': 0.037500000000000006, 'foot': 0.0, 'difference': -0.0625, 'quality': 0.0625} 
+
+Review score:  0.0277777777778
+>>> 
